@@ -73,7 +73,7 @@ Inter-floor noise and parking problems that frequently arise while living in an 
 - Administrator account (관리자계정 : 박세준/2015)
 
 
-[9] ERD USEARTH_ERD
+[9] ERD : USEARTH_ERD
 
 ![USEARTH_ERD](https://github.com/NZ-love/ireneHan/assets/142222687/f49017f9-0ae1-4cab-9a09-cefbc50f621a)
 
